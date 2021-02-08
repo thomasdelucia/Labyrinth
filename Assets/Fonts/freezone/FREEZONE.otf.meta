@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9f24b8be6db0e48ce849a5a95bfc312c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FREEZONE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 59bfba4bd7971468aa12d6dcfa7572bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
